@@ -41,8 +41,9 @@ int main() {
         int Osize = sizeof(options[i])/sizeof(options[i][0]); //size of options
         for (int j = 0; j < Osize ; j++)
         {
-            cout << " " << options[i][j] << '\n';
+            cout << " " << options[i][j];
         }
+        cout << endl;
         cout << "------------------------------------------------------\n";
 
 
