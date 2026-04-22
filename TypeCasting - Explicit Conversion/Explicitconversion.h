@@ -1,0 +1,13 @@
+//
+// Created by TSHEDUP on 2/24/2026.
+//
+
+#ifndef SIMPLE_PROGRAMS_EXPLICITCONVERSION_H
+#define SIMPLE_PROGRAMS_EXPLICITCONVERSION_H
+
+
+class Explicitconversion {
+};
+
+
+#endif //SIMPLE_PROGRAMS_EXPLICITCONVERSION_H

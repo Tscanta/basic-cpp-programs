@@ -1,0 +1,13 @@
+//
+// Created by TSHEDUP on 4/13/2026.
+//
+
+#ifndef SIMPLE_PROGRAMS_EXCEPHAND2_H
+#define SIMPLE_PROGRAMS_EXCEPHAND2_H
+
+
+class excephand2 {
+};
+
+
+#endif //SIMPLE_PROGRAMS_EXCEPHAND2_H

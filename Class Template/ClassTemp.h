@@ -1,0 +1,13 @@
+//
+// Created by TSHEDUP on 4/13/2026.
+//
+
+#ifndef SIMPLE_PROGRAMS_CLASSTEMP_H
+#define SIMPLE_PROGRAMS_CLASSTEMP_H
+
+
+class ClassTemp {
+};
+
+
+#endif //SIMPLE_PROGRAMS_CLASSTEMP_H

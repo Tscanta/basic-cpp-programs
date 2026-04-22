@@ -1,0 +1,13 @@
+//
+// Created by TSHEDUP on 12/22/2025.
+//
+
+#ifndef SIMPLE_PROGRAMS_HYPOTENUSE_H
+#define SIMPLE_PROGRAMS_HYPOTENUSE_H
+
+
+class hypotenuse {
+};
+
+
+#endif //SIMPLE_PROGRAMS_HYPOTENUSE_H

@@ -1,0 +1,13 @@
+//
+// Created by TSHEDUP on 12/23/2025.
+//
+
+#ifndef SIMPLE_PROGRAMS_TEMPCONVERSION_H
+#define SIMPLE_PROGRAMS_TEMPCONVERSION_H
+
+
+class tempconversion {
+};
+
+
+#endif //SIMPLE_PROGRAMS_TEMPCONVERSION_H
